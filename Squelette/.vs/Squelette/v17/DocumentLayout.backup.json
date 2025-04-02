@@ -1,0 +1,123 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\maram\\source\\repos\\Squelette\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F6A2AC84-6E97-4074-8A43-EAB7CE6F7370}|AM.UI.WEB\\AM.UI.WEB.csproj|c:\\users\\maram\\source\\repos\\squelette\\am.ui.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F6A2AC84-6E97-4074-8A43-EAB7CE6F7370}|AM.UI.WEB\\AM.UI.WEB.csproj|solutionrelative:am.ui.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57324626-424D-4408-B2A0-5A8BE5E86315}|AM.Infrastructure\\AM.Infrastructure.csproj|c:\\users\\maram\\source\\repos\\squelette\\am.infrastructure\\am.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{57324626-424D-4408-B2A0-5A8BE5E86315}|AM.Infrastructure\\AM.Infrastructure.csproj|solutionrelative:am.infrastructure\\am.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30468230-1705-449E-9DD9-F24257704BAD}|AM.ApplicationCore\\AM.ApplicationCore.csproj|c:\\users\\maram\\source\\repos\\squelette\\am.applicationcore\\am.applicationcore.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{30468230-1705-449E-9DD9-F24257704BAD}|AM.ApplicationCore\\AM.ApplicationCore.csproj|solutionrelative:am.applicationcore\\am.applicationcore.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6A2AC84-6E97-4074-8A43-EAB7CE6F7370}|AM.UI.WEB\\AM.UI.WEB.csproj|c:\\users\\maram\\source\\repos\\squelette\\am.ui.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6A2AC84-6E97-4074-8A43-EAB7CE6F7370}|AM.UI.WEB\\AM.UI.WEB.csproj|solutionrelative:am.ui.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57324626-424D-4408-B2A0-5A8BE5E86315}|AM.Infrastructure\\AM.Infrastructure.csproj|c:\\users\\maram\\source\\repos\\squelette\\am.infrastructure\\amcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57324626-424D-4408-B2A0-5A8BE5E86315}|AM.Infrastructure\\AM.Infrastructure.csproj|solutionrelative:am.infrastructure\\amcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\maram\\source\\repos\\Squelette\\AM.UI.WEB\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "AM.UI.WEB\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\maram\\source\\repos\\Squelette\\AM.UI.WEB\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "AM.UI.WEB\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABYAAABzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-09T10:36:18.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AM.ApplicationCore.csproj",
+              "DocumentMoniker": "C:\\Users\\maram\\source\\repos\\Squelette\\AM.ApplicationCore\\AM.ApplicationCore.csproj",
+              "RelativeDocumentMoniker": "AM.ApplicationCore\\AM.ApplicationCore.csproj",
+              "ToolTip": "C:\\Users\\maram\\source\\repos\\Squelette\\AM.ApplicationCore\\AM.ApplicationCore.csproj",
+              "RelativeToolTip": "AM.ApplicationCore\\AM.ApplicationCore.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-09T10:33:27.189Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\maram\\source\\repos\\Squelette\\AM.UI.WEB\\Program.cs",
+              "RelativeDocumentMoniker": "AM.UI.WEB\\Program.cs",
+              "ToolTip": "C:\\Users\\maram\\source\\repos\\Squelette\\AM.UI.WEB\\Program.cs",
+              "RelativeToolTip": "AM.UI.WEB\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T10:30:48.502Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AM.Infrastructure.csproj",
+              "DocumentMoniker": "C:\\Users\\maram\\source\\repos\\Squelette\\AM.Infrastructure\\AM.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "AM.Infrastructure\\AM.Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\maram\\source\\repos\\Squelette\\AM.Infrastructure\\AM.Infrastructure.csproj",
+              "RelativeToolTip": "AM.Infrastructure\\AM.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-09T10:30:28.002Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AMContext.cs",
+              "DocumentMoniker": "C:\\Users\\maram\\source\\repos\\Squelette\\AM.Infrastructure\\AMContext.cs",
+              "RelativeDocumentMoniker": "AM.Infrastructure\\AMContext.cs",
+              "ToolTip": "C:\\Users\\maram\\source\\repos\\Squelette\\AM.Infrastructure\\AMContext.cs",
+              "RelativeToolTip": "AM.Infrastructure\\AMContext.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAuwBIAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T10:28:00.252Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

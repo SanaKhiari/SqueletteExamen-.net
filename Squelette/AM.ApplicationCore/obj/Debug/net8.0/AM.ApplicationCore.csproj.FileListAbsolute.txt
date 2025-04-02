@@ -1,0 +1,12 @@
+C:\Users\maram\source\repos\AirportManagementBI1\AM.ApplicationCore\bin\Debug\net8.0\AM.ApplicationCore.deps.json
+C:\Users\maram\source\repos\AirportManagementBI1\AM.ApplicationCore\bin\Debug\net8.0\AM.ApplicationCore.dll
+C:\Users\maram\source\repos\AirportManagementBI1\AM.ApplicationCore\bin\Debug\net8.0\AM.ApplicationCore.pdb
+C:\Users\maram\source\repos\AirportManagementBI1\AM.ApplicationCore\obj\Debug\net8.0\AM.ApplicationCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maram\source\repos\AirportManagementBI1\AM.ApplicationCore\obj\Debug\net8.0\AM.ApplicationCore.AssemblyInfoInputs.cache
+C:\Users\maram\source\repos\AirportManagementBI1\AM.ApplicationCore\obj\Debug\net8.0\AM.ApplicationCore.AssemblyInfo.cs
+C:\Users\maram\source\repos\AirportManagementBI1\AM.ApplicationCore\obj\Debug\net8.0\AM.ApplicationCore.csproj.CoreCompileInputs.cache
+C:\Users\maram\source\repos\AirportManagementBI1\AM.ApplicationCore\obj\Debug\net8.0\AM.ApplicationCore.dll
+C:\Users\maram\source\repos\AirportManagementBI1\AM.ApplicationCore\obj\Debug\net8.0\refint\AM.ApplicationCore.dll
+C:\Users\maram\source\repos\AirportManagementBI1\AM.ApplicationCore\obj\Debug\net8.0\AM.ApplicationCore.pdb
+C:\Users\maram\source\repos\AirportManagementBI1\AM.ApplicationCore\obj\Debug\net8.0\ref\AM.ApplicationCore.dll
+C:\Users\maram\source\repos\AirportManagementBI1\AM.ApplicationCore\obj\Debug\net8.0\AM.ApplicationCore.csproj.AssemblyReference.cache
